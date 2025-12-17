@@ -36,3 +36,5 @@ Model Training: I selected Logistic Regression for the classification task. Desp
 Evaluation The model was evaluated using accuracy score, a classification report (Precision, Recall, F1-Score), and a Confusion Matrix. The Confusion Matrix provided a visual breakdown of where the model succeeded and where it was confused (e.g., classifying a negative review as neutral). The results showed that the TF-IDF and Logistic Regression combination is a robust baseline for sentiment analysis tasks.
 
 #OUTPUT
+
+![Image](https://github.com/user-attachments/assets/8d94eefb-b087-447c-9884-93567dc5418d)
